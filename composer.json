@@ -1,0 +1,20 @@
+{
+    "name": "favel/validation",
+    "description": "",
+    "authors": [
+        {
+            "name": "Teddy",
+            "email": "favel.teddy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Favel\\Validation": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
